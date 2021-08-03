@@ -1,2 +1,2 @@
-console.log("this is feature A!!!");
-console.log('adding more contents in A')
+console.log("only 1 line in A!");
+console.log("add some more");
